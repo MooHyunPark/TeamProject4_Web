@@ -1,9 +1,8 @@
 <img src="https://github.com/user-attachments/assets/d90030ef-428d-43f2-ad57-5be814b17067" width="400">
-<img src="https://github.com/user-attachments/assets/6552cbfa-4483-448d-a442-34efdb730dc2" width="400">
+<img src="https://github.com/user-attachments/assets/6552cbfa-4483-448d-a442-34efdb730dc2" width="700">
 <img src="https://github.com/user-attachments/assets/c9cb26b6-3c25-45cb-861e-53adc5f14a8a" width="400">
 
-<img src="https://github.com/user-attachments/assets/0a578e91-fd4a-4239-904b-63d3db4141a4" width="400">
-<img src="https://github.com/user-attachments/assets/1754e607-5d0d-460f-86f9-c9bb1dba09db" width="400">
+
 <img src="https://github.com/user-attachments/assets/d6648599-f051-4c73-9602-8317c2e0d115" width="400">
 <h1 align="center">
    Web 프로젝트 홈페이지
@@ -12,6 +11,9 @@
 <p align="center">기존의 사용하기 까다로운 필터기능을 누구나 사용할 수 있도록 </p>
 <p align="center">직관적이고 간단한 구성의 설문조사 기능을 포함하고 있습니다.</p>
 
+
+<img src="https://github.com/user-attachments/assets/0a578e91-fd4a-4239-904b-63d3db4141a4" width="400">
+<img src="https://github.com/user-attachments/assets/1754e607-5d0d-460f-86f9-c9bb1dba09db" width="400">
 
 <a href="https://github.com/kefranabg/readme-md-generator">생성기로 이동 (npm 필요)</a>
 

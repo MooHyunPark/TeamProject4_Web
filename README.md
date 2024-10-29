@@ -1,9 +1,6 @@
-<img src="https://github.com/user-attachments/assets/d90030ef-428d-43f2-ad57-5be814b17067" width="400">
-<img src="https://github.com/user-attachments/assets/6552cbfa-4483-448d-a442-34efdb730dc2" width="700">
-<img src="https://github.com/user-attachments/assets/c9cb26b6-3c25-45cb-861e-53adc5f14a8a" width="400">
 
+<p align="center"><img src="https://github.com/user-attachments/assets/d90030ef-428d-43f2-ad57-5be814b17067" width="400"></p>
 
-<img src="https://github.com/user-attachments/assets/d6648599-f051-4c73-9602-8317c2e0d115" width="400">
 <h1 align="center">
    Web 프로젝트 홈페이지
 </h1>
@@ -11,21 +8,24 @@
 <p align="center">기존의 사용하기 까다로운 필터기능을 누구나 사용할 수 있도록 </p>
 <p align="center">직관적이고 간단한 구성의 설문조사 기능을 포함하고 있습니다.</p>
 
-
-<img src="https://github.com/user-attachments/assets/0a578e91-fd4a-4239-904b-63d3db4141a4" width="400">
-<img src="https://github.com/user-attachments/assets/1754e607-5d0d-460f-86f9-c9bb1dba09db" width="400">
-
-<a href="https://github.com/kefranabg/readme-md-generator">생성기로 이동 (npm 필요)</a>
+<p align="center"><img src="https://github.com/user-attachments/assets/0a578e91-fd4a-4239-904b-63d3db4141a4" width="400"></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/1754e607-5d0d-460f-86f9-c9bb1dba09db" width="400"></p>
 
 
+---
+## ERD 구성
 
+<img src="https://github.com/user-attachments/assets/6552cbfa-4483-448d-a442-34efdb730dc2" width="1000" height="1000">
 
 ---
 ## 기능 설명
 [서버 타임 컨트롤러 설명](/src/main/java/kr/co/greenart/web/util/README.md)
 [스프링부트 어노테이션 설명](https://github.com/MooHyunPark/customerqna/tree/master/src/main/java/kr/co/greenart/web)
 
+<img src="https://github.com/user-attachments/assets/c9cb26b6-3c25-45cb-861e-53adc5f14a8a" width="400">
 
+
+<img src="https://github.com/user-attachments/assets/d6648599-f051-4c73-9602-8317c2e0d115" width="400">
 <p align="center">
   <h2>Built With</h2>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">

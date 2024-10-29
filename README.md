@@ -8,15 +8,15 @@
 <h1 align="center">
   README.md 간단한 예제 템플릿입니다
 </h1>
-<p align="center">간단한 소개글을 적어주세요</p>
-<p align="center">직접 마크업(HTML 사용가능), 마크다운을 작성하거나</p>
-<p align="center">(1. Github 활용 2. VS Code와 preview 확장 활용)</p>
-<br>
-<p align="center">또는 생성기를 활용한 방법도 있답니다 =>
-  <a href="https://github.com/kefranabg/readme-md-generator">생성기로 이동 (npm 필요)</a>
-</p>
-<br>
-<p align="center">다음은 컨텐츠 예시입니다. 너무 많은 내용은 읽기 어렵습니다. 필요한 부분만을 사용하세요.</p>
+<p align="center">간편한 필터 기능을 가진 옷 쇼핑몰 Web 프로젝트 홈페이지 입니다.</p>
+<p align="center">기존의 사용하기 까다로운 필터기능을 누구나 사용할 수 있도록 </p>
+<p align="center">직관적이고 간단한 구성의 설문조사 기능을 포함하고 있습니다.</p>
+
+
+<a href="https://github.com/kefranabg/readme-md-generator">생성기로 이동 (npm 필요)</a>
+
+
+
 
 ---
 ## 기능 설명

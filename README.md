@@ -6,9 +6,9 @@
 <img src="https://github.com/user-attachments/assets/1754e607-5d0d-460f-86f9-c9bb1dba09db" width="400">
 <img src="https://github.com/user-attachments/assets/d6648599-f051-4c73-9602-8317c2e0d115" width="400">
 <h1 align="center">
-  README.md 간단한 예제 템플릿입니다
+   Web 프로젝트 홈페이지
 </h1>
-<p align="center">간편한 필터 기능을 가진 옷 쇼핑몰 Web 프로젝트 홈페이지 입니다.</p>
+<p align="center">간편한 필터 기능을 가진 옷 쇼핑몰 홈페이지 입니다.</p>
 <p align="center">기존의 사용하기 까다로운 필터기능을 누구나 사용할 수 있도록 </p>
 <p align="center">직관적이고 간단한 구성의 설문조사 기능을 포함하고 있습니다.</p>
 

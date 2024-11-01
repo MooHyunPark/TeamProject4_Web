@@ -2,44 +2,9 @@
 <p align="center"><img src="https://github.com/user-attachments/assets/d90030ef-428d-43f2-ad57-5be814b17067" width="400"></p>
 
 <h1 align="center">
-   Web 프로젝트 홈페이지
+   WEB프로젝트 (NO MORE SHINSA)
 </h1>
-<p align="center">간편한 필터 기능을 가진 옷 쇼핑몰 홈페이지 입니다.</p>
-<p align="center">기본적인 요소들은 타 쇼핑몰들을 벤치마킹하여 구현하였으나 </p>
-<p align="center">기존의 사용하기 까다로운 필터기능을 누구나 사용할 수 있도록 </p>
-<p align="center">직관적이고 간단한 구성의 설문조사 기능을 제작하여 구현하였습니다.</p>
 
-
-
-
----
-## ERD 구성
-
-<img src="https://github.com/user-attachments/assets/6552cbfa-4483-448d-a442-34efdb730dc2" width="1000" height="1000">
-
----
-## 기능 설명
-
-
-<br><br><br><br>
-
-타 홈페이지의 필터 기능은 전문적인 지식을 요구하는 경우가 많고 > 누구나 쉽게 쓸 수 있도록 변경한 설문조사식 필터 기능입니다. 
-<br><br><br>
-
-ex : 기존의 쇼핑몰 필터 예제
-<br><br><br>
-<p align="center"><img src="https://github.com/user-attachments/assets/2a74e63f-db82-47b3-92e6-2039a6c05a23" width="800"></p>
-<br><br>
-
-ex : 변경한 쇼핑몰 필터 예제
-<br><br><br>
-<p align="center"><img src="https://github.com/user-attachments/assets/0a578e91-fd4a-4239-904b-63d3db4141a4" width="400"></p>
-<p align="center"><img src="https://github.com/user-attachments/assets/1754e607-5d0d-460f-86f9-c9bb1dba09db" width="400"></p>
-
-
-
-
-<p align="center"><img src="https://github.com/user-attachments/assets/d6648599-f051-4c73-9602-8317c2e0d115" width="500"></p>
 
 <p align="center">
   <h2>Built With</h2>
@@ -61,38 +26,69 @@ Enviroment
 
 
 
-  
-
-
-
-
-## Contents
-
-<p align="center">hash fragment를 활용한 이동 링크 예시</p>
-<p align="center">
-  <a href="#key-features">Key Features</a> |
-  <a href="#how-to-use--development-setup">How To Use</a> |
-  <a href="#authors">Authors</a>
-</p>
+# Contents
 
 ## What is?
 
--   프로젝트 탄생배경, 목적, 역사 등을 서술합니다.
+<p align="center">기존 쇼핑몰의 필터 기능을 더 쉽고 직관적이게 이용할 수 있도록 개선한 web 홈페이지입니다.</p>
+<p align="center">기본적인 요소들은 타 쇼핑몰들을 벤치마킹하여 구현하였으며</p>
+<p align="center">기존의 사용하기 까다로운 필터기능을 누구나 사용할 수 있도록</p>
+<p align="center">직관적이고 간단한 구성의 설문조사 기능을 제작하여 구현하였습니다.</p>
+
+
+
+
 
 ## Key Features
 
-- 핵심 기능 서술하기 위해 텍스트, 하이퍼링크와 스크린샷, 도표 등을 첨부해주세요.
+<br><br>
 
-> [!TIP]
-> 헤딩, 단락, 링크 및 도표, 목록, 인용 코드, 체크박스 작성법 등을 알아보세요
-> 
-> [Markdown 기분 문법 알아보기](https://www.markdownguide.org/basic-syntax/)
->
-> [Markdown Github 확장 문법 알아보기](https://docs.github.com/ko/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+타 홈페이지의 필터 기능은 전문적인 지식을 요구하는 경우가 많고 > 누구나 쉽게 쓸 수 있도록 변경한 설문조사식 필터 기능입니다. 
+<br><br><br>
 
-> 도표 생성 문법이 어렵다면 생성기를 활용하세요 => [MD Table Generator](https://www.tablesgenerator.com/markdown_tables)
+ex : 기존의 쇼핑몰 필터 예제
+<br><br><br>
+<p align="center"><img src="https://github.com/user-attachments/assets/2a74e63f-db82-47b3-92e6-2039a6c05a23" width="800"></p>
+<br><br>
 
-## How To Use / Development setup
+ex : 변경한 쇼핑몰 필터 예제 (어려운 단어 사용을 최대한 배제. 색깔, 계절 등의 정보를 바탕으로 결과목록을 추천)
+<br><br><br>
+<p align="center"><img src="https://github.com/user-attachments/assets/0a578e91-fd4a-4239-904b-63d3db4141a4" width="500"></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/1754e607-5d0d-460f-86f9-c9bb1dba09db" width="500"></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/d6648599-f051-4c73-9602-8317c2e0d115" width="500"></p>
+
+## other components
+
+주소, 결제 등의 요소들은 타 사이트의 api를 이용하여 구현
+<p align="center"><img src="https://github.com/user-attachments/assets/68803700-d5db-4d21-a50c-c648a32d17fb" width="500"></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/4d79da3d-85a0-4bc9-95c9-4b2a439cc84c" width="500"></p>
+
+
+<p align="center"><img src="https://github.com/user-attachments/assets/dd1afe3b-f106-4670-a532-2a9aa74b5c56" width="500"></p>
+
+
+![제품상세페이지](https://github.com/user-attachments/assets/497e56d0-69de-499e-b7b1-69615b2435e3)
+![장바구니](https://github.com/user-attachments/assets/774adc3a-7859-492a-a416-9b0624c1c183)
+![결제완료페이지]()
+![댓글예시](https://github.com/user-attachments/assets/b2d59862-7f8c-42d0-b0c6-583d4b8e3002)
+![결제](https://github.com/user-attachments/assets/4d79da3d-85a0-4bc9-95c9-4b2a439cc84c)
+
+ㅁㄴㅇ
+
+
+## Development setup
+
+
+
+---
+## ERD 구성
+
+<img src="https://github.com/user-attachments/assets/6552cbfa-4483-448d-a442-34efdb730dc2" width="1000" height="1000">
+
+---
+
+
+
 
 * 사용 환경과 사용법 설명
 * 또는 개발을 위한 개발환경 구축 설명하기
@@ -146,19 +142,7 @@ $ java -cp target/my-app-1.0-SNAPSHOT.jar com.mycompany.app.App
 - 위와 같은 폴더 구조 텍스트는 => [폴더 트리 구조 생성 사이트](https://ascii-tree-generator.com/) 를 활용하거나
 - 또는 윈도우 환경에서는 _`cmd /c tree`_ 명령어를 해당 폴더에서 실행해보세요
 
-## Download
 
-* 릴리즈 링크 있으면 첨부 가능
-* [download]() the latest installable version of for Windows, macOS and Linux.
-
-## ToDo
-
--   로드맵 서술. 체크 박스 등 활용
-
-*   [x] Add Changelog
-*   [x] Add back to top links
-*   [ ] Multi-language Support
-    -   [ ] English
 
 ## FAQ
 

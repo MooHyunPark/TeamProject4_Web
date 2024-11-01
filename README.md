@@ -5,8 +5,9 @@
    Web 프로젝트 홈페이지
 </h1>
 <p align="center">간편한 필터 기능을 가진 옷 쇼핑몰 홈페이지 입니다.</p>
+<p align="center">기본적인 요소들은 타 쇼핑몰들을 벤치마킹하여 구현하였으나 </p>
 <p align="center">기존의 사용하기 까다로운 필터기능을 누구나 사용할 수 있도록 </p>
-<p align="center">직관적이고 간단한 구성의 설문조사 기능을 포함하고 있습니다.</p>
+<p align="center">직관적이고 간단한 구성의 설문조사 기능을 제작하여 구현하였습니다.</p>
 
 
 
@@ -18,8 +19,8 @@
 
 ---
 ## 기능 설명
-[서버 타임 컨트롤러 설명](/src/main/java/kr/co/greenart/web/util/README.md)
-[스프링부트 어노테이션 설명](https://github.com/MooHyunPark/customerqna/tree/master/src/main/java/kr/co/greenart/web)
+
+
 <br><br><br><br>
 
 타 홈페이지의 필터 기능은 전문적인 지식을 요구하는 경우가 많고 > 누구나 쉽게 쓸 수 있도록 변경한 설문조사식 필터 기능입니다. 
@@ -42,21 +43,28 @@ ex : 변경한 쇼핑몰 필터 예제
 
 <p align="center">
   <h2>Built With</h2>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-  
-  <p>위와 같은 배지로 표현할 수도 있어요. 아래 링크로 스태틱 배지를 활용해보세요</p>
-</p>
-<a href="https://flat.badgen.net">
-  <img src="https://flat.badgen.net/badge/%EB%A7%81%ED%81%AC/%EC%9D%B4%EB%8F%99/">
-</a>
-<a href="https://shields.io/badges/static-badge">
-  <img alt="Static Badge" src="https://img.shields.io/badge/%EB%A7%81%ED%81%AC-%EC%9D%B4%EB%8F%99-red">
-</a>
+   
+   Development
+   <br><br>
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
+    <img src="https://img.shields.io/badge/javascript-%23F7DF1E?logo=javascript&logoColor=black">
+    <img src="https://img.shields.io/badge/html-%23E34F26?logo=html5&logoColor=black">
+ 
 
-[![링크 - 클릭](https://img.shields.io/badge/링크-클릭-2ea44f)](https://michaelcurrin.github.io/badge-generator/#/generic)
-[![링크](https://img.shields.io/badge/%EB%A7%81%ED%81%AC-%ED%81%B4%EB%A6%AD-green?style=flat)](https://badgesgenerator.com/)
+Enviroment
+<br><br>
+<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+<img src="https://img.shields.io/badge/apachetomcat-%23F8DC75?logo=apachetomcat&logoColor=black">
+<img src="https://img.shields.io/badge/git-%23F05032?logo=git&logoColor=black">
+
+
+
+
+  
+
+
+
 
 ## Contents
 

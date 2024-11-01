@@ -6,23 +6,6 @@
 </h1>
 
 
-<p align="center">
-  <h2>Built With</h2>
-   
-   Development
-   <br><br>
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-    <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
-    <img src="https://img.shields.io/badge/javascript-%23F7DF1E?logo=javascript&logoColor=black">
-    <img src="https://img.shields.io/badge/html-%23E34F26?logo=html5&logoColor=black">
- 
-
-Enviroment
-<br><br>
-<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-<img src="https://img.shields.io/badge/apachetomcat-%23F8DC75?logo=apachetomcat&logoColor=black">
-<img src="https://img.shields.io/badge/git-%23F05032?logo=git&logoColor=black">
-
 
 
 
@@ -59,26 +42,56 @@ ex : 변경한 쇼핑몰 필터 예제 (어려운 단어 사용을 최대한 배
 
 ## other components
 
-주소, 결제 등의 요소들은 타 사이트의 api를 이용하여 구현
+<br><br>
+<p align="center">제품을 클릭하였을 때 구매자들의 평가를 쉽게 알 수 있도록 요소 배치 (좋아요, 싫어요)</p>
+<br><br>
+
+<p align="center"><img src="https://github.com/user-attachments/assets/497e56d0-69de-499e-b7b1-69615b2435e3" width="700></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/b2d59862-7f8c-42d0-b0c6-583d4b8e3002" width="700"></p>
+<br><br><br><br>
+
+<p align="center">주소, 결제 등의 요소들은 타 사이트의 api를 이용하여 구현</p>
+<br><br>
 <p align="center"><img src="https://github.com/user-attachments/assets/68803700-d5db-4d21-a50c-c648a32d17fb" width="500"></p>
 <p align="center"><img src="https://github.com/user-attachments/assets/4d79da3d-85a0-4bc9-95c9-4b2a439cc84c" width="500"></p>
+<br><br><br><br>
+
+<p align="center">그 외 쇼핑몰 이용에 필요한 서브 기능</p>
+<p align="center"><img src="https://github.com/user-attachments/assets/dd1afe3b-f106-4670-a532-2a9aa74b5c56" width="1000"></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/774adc3a-7859-492a-a416-9b0624c1c183" width="1000"></p>
 
 
-<p align="center"><img src="https://github.com/user-attachments/assets/dd1afe3b-f106-4670-a532-2a9aa74b5c56" width="500"></p>
 
 
-![제품상세페이지](https://github.com/user-attachments/assets/497e56d0-69de-499e-b7b1-69615b2435e3)
-![장바구니](https://github.com/user-attachments/assets/774adc3a-7859-492a-a416-9b0624c1c183)
-![결제완료페이지]()
-![댓글예시](https://github.com/user-attachments/assets/b2d59862-7f8c-42d0-b0c6-583d4b8e3002)
-![결제](https://github.com/user-attachments/assets/4d79da3d-85a0-4bc9-95c9-4b2a439cc84c)
 
-ㅁㄴㅇ
+
+<p align="center">
+  <h2>Built With</h2>
+   
+   Development
+   <br><br>
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
+    <img src="https://img.shields.io/badge/javascript-%23F7DF1E?logo=javascript&logoColor=black">
+    <img src="https://img.shields.io/badge/html-%23E34F26?logo=html5&logoColor=black">
+ 
+
+Enviroment
+<br><br>
+<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+<img src="https://img.shields.io/badge/apachetomcat-%23F8DC75?logo=apachetomcat&logoColor=black">
+<img src="https://img.shields.io/badge/git-%23F05032?logo=git&logoColor=black">
+
 
 
 ## Development setup
 
+데이터베이스 서버 구축(권한 설정 포함), 테이블 논리 구성, 작업 프로젝트 생성, 공유 repository 생성 등 역할을 분배하여 진행.
 
+1. 테이블 정의 : 기본키(Pk), 외래키(Fk), 널 허용 여부(Null/Not Null), 자동 증가(Auto Increment)설정을 포함한 테이블 정의.
+2. 테이블 생성 : cloth, category, user등 주요 테이블 및 외래키를 구성
+3. ERD 활용 : 엔터티-관계 다이어그램을 기반으로 테이블 간의 외래키 관계를 검증하여 데이터베이스의 무결성 유지
+4. Test Mapper를 작성하여 실시간 입출력 테스트
 
 ---
 ## ERD 구성
@@ -88,81 +101,31 @@ ex : 변경한 쇼핑몰 필터 예제 (어려운 단어 사용을 최대한 배
 ---
 
 
-
-
-* 사용 환경과 사용법 설명
-* 또는 개발을 위한 개발환경 구축 설명하기
-
-> To clone and run this application,
-> you'll need [Git](https://git-scm.com)
-> and [download Maven](https://maven.apache.org/download.cgi)
-> Maven is a Java tool, so you must have Java installed in order to proceed. Set the JAVA_HOME environment variable pointing to your JDK installation or have the java executable on your PATH.
->
-> From your command line:
-
-```bash
-# Clone this repository
-$ git clone https://github.com/username/app-repository
-
-# Go into the repository
-$ cd app-repository
-
-# Install dependencies
-$ maven package
-
-# Run the app
-$ java -cp target/my-app-1.0-SNAPSHOT.jar com.mycompany.app.App
-```
-
-> **Note** > [Oracle JDK](https://www.oracle.com/java/technologies/downloads/) or use OpenJDK.
-
-## Repository Structure
-
-```sh
-└──Project
-    ├─README.md
-    ├─.gitignore
-    ├─src
-    │  ├─main
-    │  │  ├─java
-    │  │  │  ├─...
-    │  │  │  └─packages
-    │  │  ├─resource
-    │  │  └─webapp
-    │  │      ├─META-INF
-    │  │      ├─static
-    │  │      └─WEB-INF
-    │  │          ├─lib
-    │  │          └─views
-    │  └─test
-    │      └─java
-    └─pom.xml
-```
-
-- 위와 같은 폴더 구조 텍스트는 => [폴더 트리 구조 생성 사이트](https://ascii-tree-generator.com/) 를 활용하거나
-- 또는 윈도우 환경에서는 _`cmd /c tree`_ 명령어를 해당 폴더에서 실행해보세요
-
-
+## collaboration process
+<br><br>
+<p align="center"><img src="https://github.com/user-attachments/assets/79768f31-04f3-41b7-87d8-c68c1abd4857" width="1000"></p>
+<br><br><br><br>
+<p align="center">각 요소들의 설계 초안을 ppts 파일을 이용하여 부가 설명 진행</p>
+<br><br>
+<p align="center"><img src="https://github.com/user-attachments/assets/170dd687-22e0-4b12-b998-4bc0c42e981f" width="1000"></p>
+<br><br><br><br>
 
 ## FAQ
 
 <details>
   <summary>자주 묻는 질문?</summary>
   <dl>
-  <dt>질문 1</dt>
-  <dd>답변 1</dd>
+  <dt>설문조사필터기능의 알고리즘은 어떤 방식으로 작동하나요?</dt>
+  <dd>카테고리 테이블은 상품들의 id값을 외래키로 참조하고 있으며 나머지 컬럼들은 세부 카테고리 테이블들의 값을 가지고 있습니다. (계절, 색깔, 상하의등)
+  이를 이용하여 설문결과를 바탕으로 특정한 숫자값을 가져온 뒤, 세부 카테고리에 숫자값이 포함되어 있는 모든 옷들을 select 문으로 찾습니다.
+     
+   ex(계절) : 봄 = 1 여름 = 2 가을 = 3 겨울 = 4 모든계절 = 5 라고 가정하고,
+   봄을 선택하였다면 카테고리 테이블의 season_category 값이 1 또는 5인 모든 옷을 where 절로 찾습니다.
+  </dd>
   </dl>
 </details>
     
 ## Authors
-
-* GitHub [@깃허브 프로필 페이지](https://github.com/SYacuCLoud) | Twitter [@SNS 등](https://twitter.com/)
-
-> 다음과 같은 profile을 사용하고자 한다면 아래 링크들을 활용해보세요
->
-> [GitHub stats](https://github.com/anuraghazra/github-readme-stats)
->
-> [Profile generator](https://gprm.itsvg.in/)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=MooHyunPark)](https://github.com/MooHyunPark)
 

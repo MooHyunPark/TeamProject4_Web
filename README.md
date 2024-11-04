@@ -110,20 +110,7 @@ Enviroment
 <p align="center"><img src="https://github.com/user-attachments/assets/170dd687-22e0-4b12-b998-4bc0c42e981f" width="1000"></p>
 <br><br><br><br>
 
-## FAQ
 
-<details>
-  <summary>자주 묻는 질문?</summary>
-  <dl>
-  <dt>설문조사필터기능의 알고리즘은 어떤 방식으로 작동하나요?</dt>
-  <dd>카테고리 테이블은 상품들의 id값을 외래키로 참조하고 있으며 나머지 컬럼들은 세부 카테고리 테이블들의 값을 가지고 있습니다. (계절, 색깔, 상하의등)
-  이를 이용하여 설문결과를 바탕으로 특정한 숫자값을 가져온 뒤, 세부 카테고리에 숫자값이 포함되어 있는 모든 옷들을 select 문으로 찾습니다.
-     
-   ex(계절) : 봄 = 1 여름 = 2 가을 = 3 겨울 = 4 모든계절 = 5 라고 가정하고,
-   봄을 선택하였다면 카테고리 테이블의 season_category 값이 1 또는 5인 모든 옷을 where 절로 찾습니다.
-  </dd>
-  </dl>
-</details>
 
 ## FAQ
 

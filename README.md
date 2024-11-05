@@ -65,11 +65,11 @@ ex : 변경한 쇼핑몰 필터 예제 (어려운 단어 사용을 최대한 배
 
 
 
-<p align="center">
-  <h2>Built With</h2>
+
+<h2>Built With</h2>
    
 
-
+<p>
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E?logo=javascript&logoColor=black">
@@ -78,6 +78,7 @@ ex : 변경한 쇼핑몰 필터 예제 (어려운 단어 사용을 최대한 배
 <img src="https://img.shields.io/badge/apachetomcat-%23F8DC75?logo=apachetomcat&logoColor=black">
 <img src="https://img.shields.io/badge/maven-%23C71A36?logo=apachemaven&logoColor=white&color=orange">
 <img src="https://img.shields.io/badge/git-%23F05032?logo=git&logoColor=black">
+</p>
 
 
 

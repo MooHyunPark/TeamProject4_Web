@@ -95,7 +95,7 @@ ex : 변경한 쇼핑몰 필터 예제 (어려운 단어 사용을 최대한 배
 ---
 ## ERD 구성
 
-<img src="https://github.com/user-attachments/assets/6552cbfa-4483-448d-a442-34efdb730dc2" width="1000" height="1000">
+<img src="https://github.com/user-attachments/assets/6552cbfa-4483-448d-a442-34efdb730dc2" width="1000" height="900">
 
 ---
 
